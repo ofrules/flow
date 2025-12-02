@@ -1,3 +1,1 @@
-import { Model } from 'sequelize'
-
-export class UserModel extends Model {}
+export class UserModel {}
